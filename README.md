@@ -93,7 +93,7 @@ BM25 + Vector(ChromaDB) + Graph(Neo4j) RRF 융합, 5홉 관계 추론. LangChain
 
 ## 📬 Contact
 
-- 📧 **basilsangwon@naver.com**
+- 📧 **basileus1119@gmail.com**
 - 📍 경기 화성시
 - 💼 LinkedIn: *프로필 정비 중*
 
